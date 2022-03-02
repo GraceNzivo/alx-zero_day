@@ -1,2 +1,1 @@
-not empty readme
-Yikes is it the right readme
+This folder contains my work codes for alx lessons
